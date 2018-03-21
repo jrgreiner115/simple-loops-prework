@@ -1,7 +1,7 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
 def loop_iterator(number_of_times)
- integer = 0
+ integer = 1
   phrase = "Welcome to Flatiron School's Web Development Course!"
   loop do
     print phrase
