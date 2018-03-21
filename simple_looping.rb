@@ -4,7 +4,7 @@ def loop_iterator(number_of_times)
  integer = 1
   phrase = "Welcome to Flatiron School's Web Development Course!"
   loop do
-    return phrase
+    print phrase
   integer += 1
   break if integer == number_of_times
 end
